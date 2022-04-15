@@ -1,0 +1,3 @@
+[submodule "student-data-generator"]
+	path = student-data-generator
+	url = https://github.com/dhong9/student-data-generator.git
